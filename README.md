@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://portfolio-sycko47s-projects.vercel.app/)
 <h1 align="center">Hi Fellas👋, I'm Bhaskar G</h1>
 <h3 align="center">A Passionate React And Full Stack Developer</h3>
 
@@ -7,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my 🔥 [Portfolio](https://portfolio-sycko47s-projects.vercel.app/) 🔥
 
-- 💬 Ask me about **React**
+- 💬 Feel free to ask me about **React**
 
 - 📫 You can reach out to me via  **[Linkedin](https://linkedin.com/in/bhaskar-g-9808612a0) and <a href="mailto:bhaskarg2003@gmail.com">Gmail</a>**
 
@@ -23,5 +24,5 @@
 |---|---|---|---|---|---|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/) | [<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>](https://ifttt.com/) |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sycko47&show_icons=true&locale=en&layout=compact" alt="sycko47" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhaskarG2003&show_icons=true&locale=en&layout=compact" alt="sycko47" /></p>
 
