@@ -24,5 +24,5 @@
 |---|---|---|---|---|---|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/) | [<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>](https://ifttt.com/) |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhaskarG2003&show_icons=true&locale=en&layout=compact" alt="sycko47" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaski47&show_icons=true&locale=en&layout=compact" alt="bhaski47" /></p>
 
