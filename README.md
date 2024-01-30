@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40">](https://linkedin.com/in/bhaskar-g-9808612a0) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40">](https://instagram.com/bhaskarg2003) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="40">](https://www.hackerrank.com/bhaskarg2003) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="40">](https://www.leetcode.com/bhaskarg2003) |
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40">](https://linkedin.com/in/bhaskar-g-9808612a0) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40">](https://instagram.com/bhaskarg2003) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="40">](https://www.hackerrank.com/bhaskarg2003) |
+|---|---|---|
 
 
 <h3 align="left">Languages and Tools:</h3>
