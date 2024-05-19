@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://portfolio-sycko47s-projects.vercel.app/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://portfolio-bhaskar.vercel.app/)
 <h1 align="center">Hi Fellas👋, I'm Bhaskar G</h1>
 <h3 align="center">A Passionate React And Full Stack Developer</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at my 🔥 [Portfolio](https://portfolio-sycko47s-projects.vercel.app/) 🔥
+- 👨‍💻 All of my projects are available at my 🔥 [Portfolio](https://portfolio-bhaskar.vercel.app/) 🔥
 
 - 💬 Feel free to ask me about **React**
 
